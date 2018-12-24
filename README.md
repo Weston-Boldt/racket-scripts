@@ -1,6 +1,6 @@
 # Racket Scripts
 
-# BUILDING
+## BUILDING
 you could just use raco to build the executable and then `mv` it where it needs to go
 
 or if you want you can use `make_executable.sh` in this repo __WARNING__ 
